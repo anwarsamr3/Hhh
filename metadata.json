@@ -1,0 +1,6 @@
+{
+  "name": "Smarter IPTV",
+  "description": "Premium IPTV m3u and Xtream player supporting secure logins, EPG, Favorites, dark/golden theme selections, and full-screen video with touch brightness/volume gesture controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
